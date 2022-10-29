@@ -8,7 +8,7 @@
       <class name="tests.AddProductToWishlistTest"/>
       <class name="tests.CompareProductTest"/>
       <class name="tests.SearchAutoSugestTest"/>
-      <class name="tests.ShopingCardTest"/>
+      
     
     </classes>
   </test>
