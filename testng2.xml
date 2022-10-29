@@ -7,11 +7,9 @@
       
       <class name="tests.AddProductToWishlistTest"/>
       <class name="tests.CompareProductTest"/>
-      <class name="tests.contactUsTest"/>
-      <class name="tests.ProductHoverTest"/>
       <class name="tests.SearchAutoSugestTest"/>
       <class name="tests.ShopingCardTest"/>
-      <class name="tests.userProductReviewTest"/>
+    
     </classes>
   </test>
 </suite> 
