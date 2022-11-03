@@ -8,6 +8,7 @@ public class userRegisterationPage extends pageBase {
 
 	public userRegisterationPage(WebDriver driver) {
 		super(driver);
+		
 	}
 	
 	@FindBy(id = "gender-female")

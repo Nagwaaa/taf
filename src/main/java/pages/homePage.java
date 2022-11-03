@@ -10,6 +10,7 @@ public class homePage extends pageBase{
 	public homePage(WebDriver driver) {
 		super(driver);
 		js=(JavascriptExecutor) driver;
+		
 	}
 	
 	@FindBy(linkText = "Register")
